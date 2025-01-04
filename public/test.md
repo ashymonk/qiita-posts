@@ -4,7 +4,7 @@ tags:
   - GitHub
   - QiitaCLI
 private: false
-updated_at: '2025-01-04T22:18:03+09:00'
+updated_at: '2025-01-04T22:22:25+09:00'
 id: aedc9bf9506bba69333a
 organization_url_name: null
 slide: false
