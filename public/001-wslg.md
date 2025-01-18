@@ -28,4 +28,4 @@ WSLg 公式リポジトリにドキュメントがある程度まとまってお
 
 ## アーキテクチャ
 
-![WSLg_ArchitectureOverview.png](https://github.com/ashymonk/qiita-posts/blob/feature/1-wslg/public/images/001-wslg/WSLg_ArchitectureOverview.png?raw=true)
+![WSLg_ArchitectureOverview.png](https://github.com/ashymonk/qiita-posts/blob/images/public/images/001-wslg/WSLg_ArchitectureOverview.png?raw=true)
